@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App3kmrj</string>
+    <string name="app_nombre">Nombre:</string>
+    <string name="app_sede">Sede:</string>
+    <string name="app_fechai">Inicio:</string>
+    <string name="app_fechaf">Fin:</string>
+
+</resources>
